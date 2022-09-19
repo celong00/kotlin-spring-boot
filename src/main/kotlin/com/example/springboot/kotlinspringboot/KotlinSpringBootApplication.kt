@@ -8,4 +8,7 @@ class KotlinSpringBootApplication
 
 fun main(args: Array<String>) {
 	runApplication<KotlinSpringBootApplication>(*args)
+	//asasasas
+	//2222222
+	//3333333
 }
